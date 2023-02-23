@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SwayYan</h1>
 <h3 align="center">A passionate frontend developer from ChongQing.China</h3>
 
-- 🌱 I’m currently learning **Gomputer Graphics & [Oasis]()**
+- 🌱 I’m currently learning **Gomputer Graphics & [Oasis](https://oasisengine.cn/)**
 
 - 📫 How to reach me **yansw007@gmail.com**
 
