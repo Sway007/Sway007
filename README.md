@@ -4,4 +4,4 @@
 
 - 📫 How to reach me **yansw007@gmail.com**
 
-> "Mathematics empowers our thinking"
+> Mathematics empowers our thinking
